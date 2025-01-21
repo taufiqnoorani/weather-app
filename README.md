@@ -15,5 +15,5 @@ A simple PyQt5-based weather app that uses the OpenWeatherMap API to display cur
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/weather-app.git
+   git clone https://github.com/taufiqnoorani/weather-app.git
    ```
